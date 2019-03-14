@@ -5,4 +5,5 @@
 5. 日期预处理
 6. item和item分类
 7. Missing data处理
-8. feature scale
+8. Feature scale
+9. month(x)和item cnt day(y)
