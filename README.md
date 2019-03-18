@@ -1,2 +1,2 @@
 # ml_finalproject2019
-> Final project of machine learning
+> [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
