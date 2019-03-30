@@ -7,3 +7,16 @@
 7. Missing data处理
 8. Feature scale
 9. ~~month(x)和item cnt day(y)~~
+
+---
+
+
+1. shop_name starts with the city name
+2. Each category contains type and subtype in its name  
+3. train['revenue'] = train['item_price'] *  train['item_cnt_day']
+4. date_avg_item_cnt
+5. date_shop_avg_item_cnt
+6. date_cat_avg_item_cnt
+
+
+
