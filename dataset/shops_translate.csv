@@ -1,6 +1,6 @@
-shop_name,shop_id
-"! Yakutsk Ordzhonikidze, 56 fran",0
-"! Yakutsk Shopping Center ""Central"" fran",1
+shop_name,shop_name
+"Yakutsk Ordzhonikidze, 56",0
+"Yakutsk Shopping Center ""Central"" ",1
 "Adygea shopping center ""Mega""",2
 "Balashikha October ""Kinomir""",3
 "Volzhsky shopping center ""Volga Mall""",4
@@ -9,8 +9,8 @@ shop_name,shop_id
 "Voronezh TRC ""Maksimir""",7
 "Voronezh TRC City-Park ""Grad""",8
 Outbound Trading,9
-Zhukovsky st. Chkalov 39m?,10
-Zhukovsky st. Chkalov 39m²,11
+Zhukovsky st. Chkalov 39m,10
+Zhukovsky st. Chkalov 39m,11
 Online Emergency Store,12
 "Kazan TC ""Bahetle""",13
 "Kazan TC ""ParkHouse"" II",14
